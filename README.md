@@ -1,7 +1,13 @@
-# JAMIU KAREEM — MIT 8103
+# Fashion E-Commerce Shopping
 
-Student ID: 301924371
+JAMIU KAREEM · Student ID 301924371
 
-SWITCH FASHION E COMMERCE SHOPPING WEB
+The portfolio uses fictional records for Fashion E-Commerce Shopping.
 
-The portfolio is being generated. Completed stages will appear in the commit history.
+- [Portfolio 1](portfolio-1-database-design/)
+- [Portfolio 2](portfolio-2-query-optimisation/)
+- [Portfolio 3](portfolio-3-transactions-concurrency/)
+- [Portfolio 4](portfolio-4-nosql/)
+- [Portfolio 5](portfolio-5-distributed-cloud/)
+
+[Final summary](KAREEM_JAMIU_301924371_FinalSummary.md) · [PDF](KAREEM_JAMIU_301924371_FinalSummary.pdf)
